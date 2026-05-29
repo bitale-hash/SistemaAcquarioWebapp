@@ -1,0 +1,27 @@
+
+		
+2)		fk_id_user in tutte le tabelle tranne la tabella utenti
+			in allarmi unique (fk_id_componente , fk_id_user)
+					
+3)		grafico del acquario (temperatura acqua + ph ) nei vari giorni 
+
+4)		grafico acqua consumata (secondi_impiegati_per_riempire_la_vasca * litri/secondo) + energia prodotta(sole) nei vari giorni 
+		
+5)		separo jsp e js
+
+6)      trasformo jsp --> html
+
+
+riordati che corrente_prodotta_ma e acqua_consumata devono essere fatte contemporaneamente
+
+
+
+
+
+maurizioannarumma@virgilio.it  quello che aiuta con lavoro
+
+
+
+
+	
+node.js 2022 + ndm node + gemini cli + npm install gmini
