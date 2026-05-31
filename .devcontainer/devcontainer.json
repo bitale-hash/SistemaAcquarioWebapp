@@ -1,0 +1,14 @@
+{
+  "name": "Acquario Setup",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "21"
+    },
+    "ghcr.io/devcontainers/features/mysql:1": {
+      "version": "latest"
+    }
+  },
+  "forwardPorts": [8080, 3306],
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y tomcat10"
+}
